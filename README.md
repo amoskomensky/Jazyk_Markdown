@@ -31,4 +31,23 @@ Heading level 2
 
 **Dnes** je _pekný_ deň  
 A aj zajtra bude pekný deň  
+> toto je bloq..  
+> toto je dalsi
+
+# Nečíslovaný zoznam
+Nákupný zoznam:
+- prvá položka
+- druhá položka
+- tretia položka
+
+Nákupný zoznam:
+* prvá položka
+* druhá položka
+* tretia položka
+
+# Číslovaný zoznam
+Nákupný zoznam:
+1. prvá položka
+1. druhá položka
+1. tretia položka
 
